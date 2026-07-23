@@ -4,6 +4,8 @@ final ai/ml project for the NVIDIA AI/ML Academy 2026
 
 # Garbage Classification Project
 
+# Working Video: https://drive.google.com/file/d/1lxYgcKelbfE5odoZhODpf061NnQzm0vP/view?usp=sharing
+
 # Project Description
 # This project uses a classification neural network to identify different types of trash from images. The model analyzes visual features of an object and compares them to a trained dataset to predict the type of garbage along with a confidence score. The goal is to make sorting trash easier and more accurate.
 
